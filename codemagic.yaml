@@ -5,8 +5,9 @@ workflows:
     max_build_duration: 60
     environment:
       flutter: stable
+    working_directory: flutter_quran_reels
     scripts:
       - name: Build APK
         script: flutter build apk --debug
     artifacts:
-      - build/app/outputs/flutter-apk/*.apk
+      - flutter_quran_reels/build/app/outputs/flutter-apk/*.apk
