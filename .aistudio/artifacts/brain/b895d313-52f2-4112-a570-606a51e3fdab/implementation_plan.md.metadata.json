@@ -1,0 +1,6 @@
+{
+  "summary":  "Updated implementation plan to match the exact \"Quran Reels\" UI reference: 3-screen Onboarding flow (Skip, centered illustration, white title, gray subtitle, gold/green pagination dots, emerald Next/Get Started button) and the 8-card scrollable Main \"Create Reel\" screen (Reciter, Surah, Ayah Range with 7 Ayah gold badge & +/- steppers, Translation Language, Mushaf Page toggle, Select Background, Text Style Amiri/Roboto, Video Filters, large Emerald Generate button with Play icon, and 9:16 footer note) inside a 480px responsive web container.",
+  "updatedAt":  "2026-10-23T11:36:34.347244839Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

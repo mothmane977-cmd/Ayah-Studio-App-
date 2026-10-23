@@ -1,0 +1,40 @@
+name: ayah_studio
+description: "Ayah Studio — Midnight Aurora & Glassmorphism Material 3 Flutter App with Quran.com API v4, EveryAyah granular caching, Dart Isolates, and ffmpeg_kit_flutter 1080x1920 30fps MP4 export."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.1.4
+  just_audio: ^0.9.40
+  ffmpeg_kit_flutter_min_gpl: ^6.0.3
+  gal: ^2.3.0
+  image_picker: ^1.1.2
+  flutter_tts: ^4.0.2
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.1
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/app_icon.png"
+  min_sdk_android: 21
+  adaptive_icon_background: "#0A1128"
+  adaptive_icon_foreground: "assets/app_icon.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/app_icon.png

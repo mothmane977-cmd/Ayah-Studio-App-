@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Ayah Studio</string>
+    <string name="header_title">Ayah Studio</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+    <string name="step_1_content">Content</string>
+    <string name="step_2_design">Design</string>
+    <string name="step_3_preview">Preview</string>
+    <string name="select_reciter">Select Reciter</string>
+    <string name="select_surah">Select Surah</string>
+    <string name="ayah_range">Ayah Range</string>
+    <string name="start_ayah">Start Ayah</string>
+    <string name="number_of_ayahs">Number of Ayahs</string>
+    <string name="translation_language">Translation Language</string>
+    <string name="mushaf_page">Mushaf page</string>
+    <string name="mushaf_page_subtitle">Show the Quran page, recited ayah highlighted</string>
+    <string name="select_background">Select Background</string>
+    <string name="tap_to_choose_background">Search Pexels or pick from gallery</string>
+    <string name="text_style">Text Style</string>
+    <string name="video_filters">Video Filters</string>
+    <string name="generate">Generate</string>
+    <string name="footer_9_16_info">Your reel will be in 9:16 format, perfect for social media.</string>
+    <string name="recaptcha_site_key">placeholder_recaptcha_site_key</string>
+</resources>

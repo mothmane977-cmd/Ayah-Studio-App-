@@ -1,0 +1,6 @@
+{
+  "name": "Ayah Studio",
+  "description": "Ayah Studio — 3-step 9:16 vertical Quran video creator with Pexels backgrounds, Brightness/Contrast/Saturation/Blur video filters, Uthmani text styling, and 1080p MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
